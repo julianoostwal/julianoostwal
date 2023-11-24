@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey there, I'm Julian! 👋
 
-<!--
-**julianoostwal/julianoostwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a passionate Frontend Developer, fluent in HTML, CSS, and JavaScript, with additional experience in C programming. I enjoy creating sleek and intuitive user interfaces.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML, CSS, JavaScript, C
+- **Frameworks:** Tailwind CSS, Bootstrap, Bulma
+- **Tools:** Git, VS Code
+
+## 🌟 About Me
+
+I'm dedicated to crafting engaging and performant web experiences. Continuously learning and exploring new technologies to enhance my skill set. My passion lies in creating clean, efficient code that delights users.
