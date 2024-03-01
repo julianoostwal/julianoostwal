@@ -1,11 +1,14 @@
 # Hey there, I'm Julian! 👋
 
-Welcome to my GitHub profile. I'm a passionate Frontend Developer, fluent in HTML, CSS, and JavaScript, with additional experience in C programming. I enjoy creating sleek and intuitive user interfaces.
+Welcome to my GitHub profile. I'm Julian, a passionate Frontend Developer specializing in crafting sleek and intuitive user interfaces. My expertise lies in Next.js, a powerful framework for building React applications, and I'm also proficient in JavaScript, HTML, and CSS.
 
 ## 🛠️ Skills
 
-- **Languages:** HTML, CSS, JavaScript, C
-- **Frameworks:** Tailwind CSS, Bootstrap, Bulma
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** Next.js, React, Angular, Vue.js
+- **UI Libraries:** Tailwind CSS, Bootstrap, Shadcn, NextUI
+- **Authentication:** NextAuth.js
+- **Database:** MongoDB
 - **Tools:** Git, VS Code
 
 ## 🌟 About Me
