@@ -1,16 +1,28 @@
 # Hey there, I'm Julian! 👋
 
-Welcome to my GitHub profile. I'm Julian, a passionate Frontend Developer specializing in crafting sleek and intuitive user interfaces. My expertise lies in Next.js, a powerful framework for building React applications, and I'm also proficient in JavaScript, HTML, and CSS.
+Welcome to my GitHub profile! I'm Julian, a passionate Frontend Developer specializing in crafting sleek and intuitive user interfaces. My expertise lies in **Next.js** and **React**, along with a deep understanding of **JavaScript**, **HTML**, and **CSS**.
 
 ## 🛠️ Skills
-
-- **Languages:** HTML, CSS, JavaScript, Typescript
-- **Frameworks:** Next.js, React, Angular
-- **UI Libraries:** Tailwind CSS, Bootstrap, Shadcn, NextUI
-- **Authentication:** NextAuth.js, Supabase, Firebase
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, VS Code
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: Next.js, React, Angular
+- **UI Libraries**: Tailwind CSS, Bootstrap, Shadcn, NextUI
+- **Authentication**: NextAuth.js, Supabase, Firebase
+- **Database**: MongoDB, PostgreSQL
+- **Tools**: Git, VS Code
 
 ## 🌟 About Me
+I'm dedicated to crafting engaging, high-performance web experiences. I love to continuously learn and explore new technologies to enhance my skill set, always aiming to write clean, efficient code that delights users.
 
-I'm dedicated to crafting engaging and performant web experiences. Continuously learning and exploring new technologies to enhance my skill set. My passion lies in creating clean, efficient code that delights users.
+---
+
+Feel free to explore my repositories, and if you have any questions or project ideas, reach out! I'm always excited to collaborate and connect.
+
+---
+
+### 📫 How to reach me
+- [Portfolio](https://julianoostwal.dev)
+- Email: info@julianoostwal.dev
+
+---
+
+Thanks for stopping by! 😊
