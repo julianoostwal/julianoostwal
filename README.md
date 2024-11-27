@@ -1,6 +1,6 @@
 # Hey there, I'm Julian! 👋
 
-Welcome to my GitHub profile! I'm Julian, a passionate Frontend Developer specializing in crafting sleek and intuitive user interfaces. My expertise lies in **Next.js** and **React**, along with a deep understanding of **JavaScript**, **HTML**, and **CSS**.
+Welcome to my GitHub profile! I'm a passionate Frontend Developer specializing in crafting sleek and intuitive user interfaces. My expertise lies in **Next.js** and **React**, along with a deep understanding of **JavaScript**, **HTML**, and **CSS**.
 
 ## 🛠️ Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript
