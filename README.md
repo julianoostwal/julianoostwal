@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer specializing i
 ## 🛠️ Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks**: Next.js, React, Angular
-- **UI Libraries**: Tailwind CSS, Bootstrap, Shadcn, NextUI
-- **Authentication**: NextAuth.js, Supabase, Firebase
+- **UI Libraries**: Tailwind CSS, Shadcn, NextUI, Bootstrap
+- **Authentication**: NextAuth.js, Supabase, Firebase, API-based JWT authentication
 - **Database**: MongoDB, PostgreSQL
-- **Tools**: Git, VS Code
+- **Tools**: Git, VS Code, ChatGPT
 
 ## 🌟 About Me
 I'm dedicated to crafting engaging, high-performance web experiences. I love to continuously learn and explore new technologies to enhance my skill set, always aiming to write clean, efficient code that delights users.
