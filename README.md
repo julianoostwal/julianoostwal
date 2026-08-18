@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Student | Freelancer
 
-I'm an 18-year-old developer from the Netherlands with a passion for building seamless, user-focused web experiences. I specialize in bridging the gap between design and functionality.
+I'm an 19-year-old developer from the Netherlands with a passion for building seamless, user-focused web experiences. I specialize in bridging the gap between design and functionality.
 
 From responsive frontends with **Next.js & Nuxt.js** to robust backends with **Node.js, Laravel & .NET**, I bring ideas to life with clean, efficient code. Currently expanding my skills in **Kotlin** and mobile development.
 
